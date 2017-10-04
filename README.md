@@ -11,7 +11,7 @@ https://github.com/simonmeusel/mcCamTools/releases
 
 ## Mod
 
-Install this mod using forge! You then have a new client side command: `/camtools`
+Install this mod using forge! You then have a new client side command: `/camtools`. It record your motion and saves it.
 
 ```
 /camtools <delay in ticks> <duration in ticks> <path to output file>

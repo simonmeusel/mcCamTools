@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mccamtools",
+  "name": "mcCamTools",
+  "description": "Record cinematics",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/simonmeusel/mcCamTools",
+  "updateUrl": "",
+  "authorList": ["Simon Meusel"],
+  "credits": "The Forge and FML guys, for making this example and Simon Meusel for creating this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
